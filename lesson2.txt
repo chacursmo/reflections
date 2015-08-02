@@ -1,0 +1,3 @@
+What is the reuslt of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches together allows for collaboration and addition of different features.
