@@ -1,3 +1,8 @@
 What is the reuslt of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging two branches together allows for collaboration and addition of different features.
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Git is not that smart. I would refer to the halting problem.
