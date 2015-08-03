@@ -1,3 +1,8 @@
 When would you want to use a remote repository?
 
 I imagine a remote repository would be good for backups for collaboration and when you want other to read your reflections.
+
+
+Why might you want to always pull changes manually rahter than having Git automatically stay up-to-date with your remote repository?
+
+Logical changes and commits are done manually so should pulls and pushes. Automatically might not sync well.
