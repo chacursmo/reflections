@@ -6,3 +6,7 @@ I imagine a remote repository would be good for backups for collaboration and wh
 Why might you want to always pull changes manually rahter than having Git automatically stay up-to-date with your remote repository?
 
 Logical changes and commits are done manually so should pulls and pushes. Automatically might not sync well.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is on Github. A clone is similar. Clones can also be local. Branches are in the geneology of commits. Branches are used in the commit process. Clones and forks are used to begin work someone else has begun.
