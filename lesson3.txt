@@ -1,0 +1,3 @@
+When would you want to use a remote repository?
+
+I imagine a remote repository would be good for backups for collaboration and when you want other to read your reflections.
